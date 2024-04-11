@@ -1,0 +1,60 @@
+_repo: The-trap_73243
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wessolowski, Hans Waldemar
+    aliases:
+    - Wesso
+    - Wesso, H. W.
+    - Wesso, H.W.
+    birthdate: 1893
+    deathdate: 1948
+    gutenberg_agent_id: '32703'
+    url: http://www.gutenberg.org/2009/agents/32703
+    wikipedia: https://en.wikipedia.org/wiki/Hans_Waldemar_Wessolowski
+creator:
+  authors:
+  - agent_name: Lovecraft, H. P. (Howard Phillips)
+    aliases:
+    - Lovecraft, Howard Phillips
+    - Littlewit, Humphrey
+    - Lovecraft, H.P.
+    birthdate: 1890
+    deathdate: 1937
+    gutenberg_agent_id: '34724'
+    url: http://www.gutenberg.org/2009/agents/34724
+    wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
+  - agent_name: Whitehead, Henry S. (Henry St. Clair)
+    alias: Whitehead, Henry St. Clair
+    birthdate: 1882
+    deathdate: 1932
+    gutenberg_agent_id: '56997'
+    url: http://www.gutenberg.org/2009/agents/56997
+    wikipedia: https://en.wikipedia.org/wiki/Henry_S._Whitehead
+description: ''
+gutenberg_issued: '2024-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73243'
+language: en
+pgterms:marc905: 20240307061921whitehead
+pgterms:marc906: '1932'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bThe Clayton Magazines, Inc., $c1932.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Gerald Canevin
+subjects:
+- !lcsh 'Boarding schools -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Connecticut -- Fiction'
+- !lcsh 'Schoolboys -- Fiction'
+- !lcsh 'Mirrors -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The trap
+url: http://www.gutenberg.org/ebooks/73243
