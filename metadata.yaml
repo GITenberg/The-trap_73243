@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '32703'
     url: http://www.gutenberg.org/2009/agents/32703
     wikipedia: https://en.wikipedia.org/wiki/Hans_Waldemar_Wessolowski
+covers:
+- cover_type: archival
+  image_path: 73243-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Lovecraft, H. P. (Howard Phillips)
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56997
     wikipedia: https://en.wikipedia.org/wiki/Henry_S._Whitehead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73243#The-trap
 gutenberg_issued: '2024-03-23'
 gutenberg_type: Text
 identifiers:
